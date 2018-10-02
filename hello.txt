@@ -4,3 +4,5 @@ Jenkins
 github
 Ansible
 Chef Puppet
+nagios
+kubernetes
