@@ -8,3 +8,4 @@ nagios
 kubernetes
 Sample Project
 And other advanced topics
+oracle
