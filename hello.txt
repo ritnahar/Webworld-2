@@ -9,3 +9,4 @@ kubernetes
 Sample Project
 And other advanced topics
 oracle
+aws
